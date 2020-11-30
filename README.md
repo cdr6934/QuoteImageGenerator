@@ -1,7 +1,11 @@
-#Quote Generator 
+# Quote Generator 
 
 Here I am going to try to build a simple API which will add a quote to an image. This can come in a number of different ways. 
-First off it can 
+
+
+Ultimately I'd like to add a simple web interface that will work with the rest of the code to either 
+generate an image with a quote or it will pick a new image from 
+Unsplash and provide the user with the necessary wonders. 
 
 ## TODO 
 * Pull quotes from a CSV / [POSTGRES](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/) table to be placed into the file 
